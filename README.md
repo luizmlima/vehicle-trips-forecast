@@ -22,7 +22,7 @@ The benchmark compared four main approaches. The **Theta** model showed the best
 ### Visualization of Forecasts
 Below, the graph shows the 243-month history and the performance of the models in the test period.
 
-![Forecast Results](images/forecast_results.webp)
+
 
 ---
 
